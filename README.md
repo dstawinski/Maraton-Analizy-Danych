@@ -1,9 +1,10 @@
 # Maraton Analizy Danych
 
-## Dostępne API
+## Dostępne dane publiczne
 
-* DANE z usługi REST i SOAP http://www.mapa.um.warszawa.pl/files/Dokumentacja_uslug_REST_SOAP_BGiK.pdf
-        Aktualnie dostępne są następujące usługi (wszystkie w postaci REST i SOAP): 
+### [DANE z usługi REST i SOAP](http://www.mapa.um.warszawa.pl/files/Dokumentacja_uslug_REST_SOAP_BGiK.pdf)
+
+    Aktualnie dostępne są następujące usługi (wszystkie w postaci REST i SOAP): 
         1) Biura Urzędu m. st. Warszawy.
         2) Jednostki organizacyjne m.st. Warszawy.
         3) Urzędy dzielnic m.st. Warszawy.
@@ -36,15 +37,15 @@
         30) Decyzje o pozwoleniu na budowę.
         31) Linie rozgraniczające.
 
-Rowery - green elephant http://greenelephant.pl/shiny/rowery/
-Informacje o ilości rowerów odczytanie z automatycznych punktów pomiarowych ZTM Warszawa
+### [Rowery - Green Elephant](http://greenelephant.pl/shiny/rowery/)
+    Informacje o ilości rowerów odczytanie z automatycznych punktów pomiarowych ZTM Warszawa.
 
-Moje Państwo https://mojepanstwo.pl/
- informacje o pracy polityków, finanse publiczne, informacje o samorządach, organizacjach pozarzadowych, KRS, budżet
+### [Moje Państwo](https://mojepanstwo.pl/)
+    Informacje o pracy polityków, finanse publiczne, informacje o samorządach, organizacjach pozarzadowych, KRS, budżet.
 
-Bank Danych Lokalnych https://bdl.stat.gov.pl/BDL/start
- informacje od instytucji publicznych podzielone wg. terenowych jednostek administracyjnych (miasta, gminy, powiaty)
+### [Bank Danych Lokalnych](https://bdl.stat.gov.pl/BDL/start)
+    Informacje od instytucji publicznych podzielone wg. terenowych jednostek administracyjnych (miasta, gminy, powiaty).
 
-Dane Publiczne.gov https://danepubliczne.gov.pl/dataset
- informacje od ministerstw i urzędów (centralnych). podział na kategorie tematyczne
+### [Dane Publiczne](https://danepubliczne.gov.pl/dataset)
+    Informacje od ministerstw i urzędów (centralnych). podział na kategorie tematyczne.
 
