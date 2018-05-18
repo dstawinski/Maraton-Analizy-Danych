@@ -56,7 +56,6 @@
 ### [Dane po warszawsku](http://www.danepowarszawsku.pl/)
 
     Dane na temat funkcjonowania miasta od Urzędu m.st. Warszawy.
-    Lista udostępnionych zbiorów: <https://uploads.strikinglycdn.com/files/212811/67ea803d-70f9-4360-8074-4e452fa79264/Zbiory_danych_25.02.2015_fin.xls>
 
 ### [Interaktywna mapa Warszawy](http://www.mapa.um.warszawa.pl/mapaApp1/mapa?service=mapa)
 
