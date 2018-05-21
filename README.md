@@ -28,60 +28,59 @@ Dane | Transport i bezpieczeństwo | Gospodarka i finanse | Społeczeństwo i po
 
 ### [jakdojade.pl](https://github.com/dstawinski/Maraton-Analizy-Danych/tree/master/jakdojade.pl)
 
-    Dane z 3 miesięcy na temat popularności poszczególnych przystanków jako punktów startowych i końcowych podróży użytkowników serwisu jakdojade.pl
+> Dane z 3 miesięcy na temat popularności poszczególnych przystanków jako punktów startowych i końcowych podróży użytkowników serwisu jakdojade.pl
     
 ### [Dane po warszawsku](http://www.danepowarszawsku.pl/)
 
-    Dane na temat funkcjonowania miasta od Urzędu m.st. Warszawy.
+> Dane na temat funkcjonowania miasta od Urzędu m.st. Warszawy.
     
 ### [Bank Danych Lokalnych](https://bdl.stat.gov.pl/BDL/start)
 
-    Informacje od instytucji publicznych podzielone wg. terenowych jednostek administracyjnych (miasta, gminy, powiaty).
+> Informacje od instytucji publicznych podzielone wg. terenowych jednostek administracyjnych (miasta, gminy, powiaty).
     
 ### [Moje Państwo](https://mojepanstwo.pl/)
 
-    Informacje o pracy polityków, finanse publiczne, informacje o samorządach, organizacjach pozarzadowych, KRS, budżet.
+> Informacje o pracy polityków, finanse publiczne, informacje o samorządach, organizacjach pozarzadowych, KRS, budżet.
     
 ### [DANE z usługi REST i SOAP](http://www.mapa.um.warszawa.pl/files/Dokumentacja_uslug_REST_SOAP_BGiK.pdf)
 
-    Dane geodezyjne udostępniane przez Biuro Geodezji i Katastru w Warszawie. 
+> Dane geodezyjne udostępniane przez Biuro Geodezji i Katastru w Warszawie. 
 
 ### [Rowery - Green Elephant](http://greenelephant.pl/shiny/rowery/)
 
-    Informacje o ilości rowerów odczytanie z automatycznych punktów pomiarowych ZTM Warszawa.
+> Informacje o ilości rowerów odczytanie z automatycznych punktów pomiarowych ZTM Warszawa.
 
 ### [Interaktywna mapa Warszawy](http://www.mapa.um.warszawa.pl/mapaApp1/mapa?service=mapa)
 
-    Aktualna mapa Warszawy, z możliwością nałożenia danych geograficznych i demograficznych.
+> Aktualna mapa Warszawy, z możliwością nałożenia danych geograficznych i demograficznych.
     
 ### [Narodowy Bank Polski](http://www.nbp.pl/home.aspx?f=/systemplatniczy/dane/dane_statystyczne.html)
 
-    Dane statystyczne na temat liczby transakcji, obrotach i uczestnikach transakcji w systemach SORBNET,TARGET i ELIXIR.
+> Dane statystyczne na temat liczby transakcji, obrotach i uczestnikach transakcji w systemach SORBNET,TARGET i ELIXIR.
     
 ### [Airly](https://developer.airly.eu/)
 
-    Dane z czujników pogodowych firmy Airly dostępne poprzez API.
+> Dane z czujników pogodowych firmy Airly dostępne poprzez API.
     
 ### [Airly v2](https://www.kaggle.com/datascienceairly/air-quality-data-from-extensive-network-of-sensors)
 
-    Dane na temat jakości powietrza z roku 2017 z Krakowa. Wskaźniki: PM1, PM2.5, PM10, temperatura, ciśnienie i wilgotność.
+> Dane na temat jakości powietrza z roku 2017 z Krakowa. Wskaźniki: PM1, PM2.5, PM10, temperatura, ciśnienie i wilgotność.
     
 ### [Policja](http://statystyka.policja.pl/)
 
-    Statystyki oraz raporty na temat przestępstw i ruchu drogowego.
+> Statystyki oraz raporty na temat przestępstw i ruchu drogowego.
     
 ### [Centralna Baza Danych Geologicznych](https://www.pgi.gov.pl/dane-geologiczne/geologiczne-bazy-danych.html)
 
-    Największy w Polsce zbiór cyfrowych danych geologicznych.
-    Są tu między innymi szczegółowe informacje o otworach wiertniczych, archiwalnych dokumentacjach geologicznych i różnego typu badaniach geofizycznych.
+> Największy w Polsce zbiór cyfrowych danych geologicznych. Są tu między innymi szczegółowe informacje o otworach wiertniczych, archiwalnych dokumentacjach geologicznych i różnego typu badaniach geofizycznych.
     
 ### [Archiwum Danych Społecznych](http://www.ads.org.pl/)
 
-    Archiwum Danych Społecznych działa w ramach Umowy o wspólnym prowadzeniu programu badawczego w zakresie archiwizacji danych społecznych, zawartej między Uniwersytetem Warszawskim a Instytutem Filozofii i Socjologii Polskiej Akademii Nauk, dnia 8 grudnia 2003 roku.
+> Archiwum Danych Społecznych działa w ramach Umowy o wspólnym prowadzeniu programu badawczego w zakresie archiwizacji danych społecznych, zawartej między Uniwersytetem Warszawskim a Instytutem Filozofii i Socjologii Polskiej Akademii Nauk, dnia 8 grudnia 2003 roku.
 
 ### [Urząd Do Spraw Cudzoziemców](https://www.udsc.gov.pl)
 
-    Raporty specjalne i okresowe na temat legalizacji pobytu, uchodźców czy ochrony międzynarodowej.
+> Raporty specjalne i okresowe na temat legalizacji pobytu, uchodźców czy ochrony międzynarodowej.
     
 
     
