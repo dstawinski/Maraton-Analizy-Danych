@@ -5,20 +5,20 @@
 Dane | Transport i bezpieczeństwo | Gospodarka i finanse | Społeczeństwo i polityka | Środowisko naturalne i rolnictwo
 --- | :---: | :---: | :---: | :---: 
 [Dane Publiczne](https://github.com/dstawinski/Maraton-Analizy-Danych#dane-publiczne) | x | x | x | x 
-[jakdojade.pl](https://github.com/dstawinski/Maraton-Analizy-Danych#jakdojadepl) | x | x | x | x 
+[jakdojade.pl](https://github.com/dstawinski/Maraton-Analizy-Danych#jakdojadepl) | x |  |  | 
 [Dane po warszawsku](https://github.com/dstawinski/Maraton-Analizy-Danych#dane-po-warszawsku) | x | x | x | x 
 [Bank Danych Lokalnych](https://github.com/dstawinski/Maraton-Analizy-Danych#bank-danych-lokalnych) | x | x | x | x 
 [Moje Państwo](https://github.com/dstawinski/Maraton-Analizy-Danych#moje-pa%C5%84stwo) | x | x | x | x 
 [DANE z usługi REST i SOAP](https://github.com/dstawinski/Maraton-Analizy-Danych#dane-z-us%C5%82ugi-rest-i-soap) | x | x | x | x 
-[Rowery - Green Elephant](https://github.com/dstawinski/Maraton-Analizy-Danych#rowery---green-elephant) | x | x | x | x 
+[Rowery - Green Elephant](https://github.com/dstawinski/Maraton-Analizy-Danych#rowery---green-elephant) | x |  |  | 
 [Interaktywna mapa Warszawy](https://github.com/dstawinski/Maraton-Analizy-Danych#interaktywna-mapa-warszawy) | x | x | x | x 
-[Narodowy Bank Polski](https://github.com/dstawinski/Maraton-Analizy-Danych#narodowy-bank-polski) | x | x | x | x 
-[Airly](https://github.com/dstawinski/Maraton-Analizy-Danych#airly) | x | x | x | x 
-[Airly v2](https://github.com/dstawinski/Maraton-Analizy-Danych#airly-v2) | x | x | x | x 
-[Policja](https://github.com/dstawinski/Maraton-Analizy-Danych#policja) | x | x | x | x 
+[Narodowy Bank Polski](https://github.com/dstawinski/Maraton-Analizy-Danych#narodowy-bank-polski) |  | x |  | 
+[Airly](https://github.com/dstawinski/Maraton-Analizy-Danych#airly) |  |  |  | x 
+[Airly v2](https://github.com/dstawinski/Maraton-Analizy-Danych#airly-v2) |  |  |  | x 
+[Policja](https://github.com/dstawinski/Maraton-Analizy-Danych#policja) | x |  |  | 
 [Centralna Baza Danych Geologicznych](https://github.com/dstawinski/Maraton-Analizy-Danych#centralna-baza-danych-geologicznych) | x | x | x | x 
-[Archiwum Danych Społecznych](https://github.com/dstawinski/Maraton-Analizy-Danych#archiwum-danych-spo%C5%82ecznych) | x | x | x | x 
-[Urząd Do Spraw Cudzoziemców](https://github.com/dstawinski/Maraton-Analizy-Danych#urz%C4%85d-do-spraw-cudzoziemc%C3%B3w) | x | x | x | x 
+[Archiwum Danych Społecznych](https://github.com/dstawinski/Maraton-Analizy-Danych#archiwum-danych-spo%C5%82ecznych) |  |  | x | 
+[Urząd Do Spraw Cudzoziemców](https://github.com/dstawinski/Maraton-Analizy-Danych#urz%C4%85d-do-spraw-cudzoziemc%C3%B3w) |  |  | x | 
 
 ## Dostępne dane publiczne
 
