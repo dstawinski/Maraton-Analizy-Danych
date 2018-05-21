@@ -24,7 +24,7 @@ Dane | Transport i bezpieczeństwo | Gospodarka i finanse | Społeczeństwo i po
 
 ### [Dane Publiczne](https://danepubliczne.gov.pl/dataset)
 
-    Informacje od ministerstw i urzędów (centralnych). Podział na kategorie tematyczne.
+    Informacje od polskich ministerstw i urzędów (centralnych). DanePubliczne.gov.pl to serwis, który ma za zadanie zgromadzić w jednym miejscu dane o szczególnym znaczeniu dla rozwoju innowacyjności w państwie i rozwoju społeczeństwa informacyjnego.
 
 ### [jakdojade.pl](https://github.com/dstawinski/Maraton-Analizy-Danych/tree/master/jakdojade.pl)
 
@@ -44,38 +44,7 @@ Dane | Transport i bezpieczeństwo | Gospodarka i finanse | Społeczeństwo i po
     
 ### [DANE z usługi REST i SOAP](http://www.mapa.um.warszawa.pl/files/Dokumentacja_uslug_REST_SOAP_BGiK.pdf)
 
-    Aktualnie dostępne są następujące usługi (wszystkie w postaci REST i SOAP): 
-        1) Biura Urzędu m. st. Warszawy.
-        2) Jednostki organizacyjne m.st. Warszawy.
-        3) Urzędy dzielnic m.st. Warszawy.
-        4) Urzędy Stanu Cywilnego.
-        5) Ośrodki Pomocy Społecznej.
-        6) Inne jednostki pomocy społecznej.
-        7) E-pracownie.
-        8) Placówki oświatowe (publiczne i niepubliczne).
-        9) Dzielnice.
-        10) Obszary Miejskiego Systemu Informacji.
-        11) Strefy TAXI.
-        12) Promy.
-        13) Parkingi Park and Ride.
-        14) Strefa Płatnego Parkowania.
-        15) Pomniki.
-        16) Punkty pomocy prawnej.
-        17) Żłobki i kluby dziecięce.
-        18) Place zabaw.
-        19) Samoobsługowe stacje napraw.
-        20) Trasy rowerowe.
-        21) Rowery towarowe.
-        22) Miejscowe Plany Zagospodarowania Przestrzennego.
-        23) Miejsca handlowe.
-        24) Targowiska.
-        25) Targowiska jednodniowe.
-        26) Nieruchomości na sprzedaż.
-        27) Punkty adresowe.
-        28) Ulice i place.
-        29) Decyzje o warunkach zabudowy.
-        30) Decyzje o pozwoleniu na budowę.
-        31) Linie rozgraniczające.
+    Dane geodezyjne i z katastru nieruchomości pochodzące z Biuro Geodezji i Katastru w Warszawie. 
 
 ### [Rowery - Green Elephant](http://greenelephant.pl/shiny/rowery/)
 
