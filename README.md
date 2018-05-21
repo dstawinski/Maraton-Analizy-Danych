@@ -100,4 +100,4 @@
 
 Dane | Transport i bezpieczeństwo | Gospodarka i finanse | Społeczeństwo i polityka | Środowisko naturalne i rolnictwo
 --- | :---: | :---: | :---: | :---: 
-Dane Publiczne | x | x | x | x 
+[Dane Publiczne](https://github.com/dstawinski/Maraton-Analizy-Danych#dane-publiczne) | x | x | x | x 
