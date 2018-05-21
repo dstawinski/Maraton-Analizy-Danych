@@ -98,6 +98,6 @@
     
 ## Podział danych na kategorie
 
-Dane/Kategorie | Transport i bezpieczeństwo | Gospodarka i finanse | Społeczeństwo i polityka | Środowisko naturalne i rolnictwo
+Dane | Transport i bezpieczeństwo | Gospodarka i finanse | Społeczeństwo i polityka | Środowisko naturalne i rolnictwo
 ------------ | ------------- | ------------- | ------------- | ------------- 
 Dane Publiczne | x | x | x | x 
