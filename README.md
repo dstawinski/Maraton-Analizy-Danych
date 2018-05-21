@@ -4,7 +4,8 @@
 
 Dane | Transport i bezpieczeństwo | Gospodarka i finanse | Społeczeństwo i polityka | Środowisko naturalne i rolnictwo
 --- | :---: | :---: | :---: | :---: 
-[Dane Publiczne](https://github.com/dstawinski/Maraton-Analizy-Danych#dane-publiczne) | x | x | x | x 
+[Dane Publiczne](https://github.com/dstawinski/Maraton-Analizy-Danych#dane-publiczne) | x | x | x | x
+[DataWise](https://github.com/dstawinski/Maraton-Analizy-Danych#datawise) |  | x | x |  |
 [jakdojade.pl](https://github.com/dstawinski/Maraton-Analizy-Danych#jakdojadepl) | x |  |  | 
 [Dane po warszawsku](https://github.com/dstawinski/Maraton-Analizy-Danych#dane-po-warszawsku) | x | x | x | x 
 [Bank Danych Lokalnych](https://github.com/dstawinski/Maraton-Analizy-Danych#bank-danych-lokalnych) | x | x | x | x 
@@ -25,6 +26,10 @@ Dane | Transport i bezpieczeństwo | Gospodarka i finanse | Społeczeństwo i po
 ### [Dane Publiczne](https://danepubliczne.gov.pl/dataset)
 
 > Informacje od polskich ministerstw i urzędów (centralnych). DanePubliczne.gov.pl to serwis, który ma za zadanie zgromadzić w jednym miejscu dane o szczególnym znaczeniu dla rozwoju innowacyjności w państwie i rozwoju społeczeństwa informacyjnego.
+
+### [DataWise](https://github.com/dstawinski/Maraton-Analizy-Danych/tree/master/DataWise)
+
+> LocIt to baza adresowa 8,5 mln budynków i punktów adresowych z całej Polski. Przy braku oficjalnych danych szacujemy, że LocIt zawiera ponad 96% wszystkich budynków mających nadany adres i niemal 100% oddanych do użytku budynków mieszkalnych. Adresy w bazie LocIt mają przypisaną informację pozwalającą na geolokalizację budynku.
 
 ### [jakdojade.pl](https://github.com/dstawinski/Maraton-Analizy-Danych/tree/master/jakdojade.pl)
 
