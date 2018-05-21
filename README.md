@@ -44,7 +44,7 @@ Dane | Transport i bezpieczeństwo | Gospodarka i finanse | Społeczeństwo i po
     
 ### [DANE z usługi REST i SOAP](http://www.mapa.um.warszawa.pl/files/Dokumentacja_uslug_REST_SOAP_BGiK.pdf)
 
-    Dane geodezyjne i z katastru nieruchomości pochodzące z Biuro Geodezji i Katastru w Warszawie. 
+    Dane geodezyjne udostępniane przez Biuro Geodezji i Katastru w Warszawie. 
 
 ### [Rowery - Green Elephant](http://greenelephant.pl/shiny/rowery/)
 
