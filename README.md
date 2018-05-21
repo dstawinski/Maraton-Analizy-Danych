@@ -5,7 +5,7 @@
 Dane | Transport i bezpieczeństwo | Gospodarka i finanse | Społeczeństwo i polityka | Środowisko naturalne i rolnictwo
 --- | :---: | :---: | :---: | :---: 
 [Dane Publiczne](https://github.com/dstawinski/Maraton-Analizy-Danych#dane-publiczne) | x | x | x | x
-[DataWise](https://github.com/dstawinski/Maraton-Analizy-Danych#datawise) |  | x | x |  |
+[DataWise](https://github.com/dstawinski/Maraton-Analizy-Danych#datawise) |  | x | x | x
 [jakdojade.pl](https://github.com/dstawinski/Maraton-Analizy-Danych#jakdojadepl) | x |  |  | 
 [Dane po warszawsku](https://github.com/dstawinski/Maraton-Analizy-Danych#dane-po-warszawsku) | x | x | x | x 
 [Bank Danych Lokalnych](https://github.com/dstawinski/Maraton-Analizy-Danych#bank-danych-lokalnych) | x | x | x | x 
