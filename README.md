@@ -2,6 +2,26 @@
 
 ## Dostępne dane publiczne
 
+### [Dane Publiczne](https://danepubliczne.gov.pl/dataset)
+
+    Informacje od ministerstw i urzędów (centralnych). Podział na kategorie tematyczne.
+
+### [jakdojade.pl](https://github.com/dstawinski/Maraton-Analizy-Danych/tree/master/jakdojade.pl)
+
+    Dane z 3 miesięcy na temat popularności poszczególnych przystanków jako punktów startowych i końcowych podróży użytkowników serwisu jakdojade.pl
+    
+### [Dane po warszawsku](http://www.danepowarszawsku.pl/)
+
+    Dane na temat funkcjonowania miasta od Urzędu m.st. Warszawy.
+    
+### [Bank Danych Lokalnych](https://bdl.stat.gov.pl/BDL/start)
+
+    Informacje od instytucji publicznych podzielone wg. terenowych jednostek administracyjnych (miasta, gminy, powiaty).
+    
+### [Moje Państwo](https://mojepanstwo.pl/)
+
+    Informacje o pracy polityków, finanse publiczne, informacje o samorządach, organizacjach pozarzadowych, KRS, budżet.
+    
 ### [DANE z usługi REST i SOAP](http://www.mapa.um.warszawa.pl/files/Dokumentacja_uslug_REST_SOAP_BGiK.pdf)
 
     Aktualnie dostępne są następujące usługi (wszystkie w postaci REST i SOAP): 
@@ -41,22 +61,6 @@
 
     Informacje o ilości rowerów odczytanie z automatycznych punktów pomiarowych ZTM Warszawa.
 
-### [Moje Państwo](https://mojepanstwo.pl/)
-
-    Informacje o pracy polityków, finanse publiczne, informacje o samorządach, organizacjach pozarzadowych, KRS, budżet.
-
-### [Bank Danych Lokalnych](https://bdl.stat.gov.pl/BDL/start)
-
-    Informacje od instytucji publicznych podzielone wg. terenowych jednostek administracyjnych (miasta, gminy, powiaty).
-
-### [Dane Publiczne](https://danepubliczne.gov.pl/dataset)
-
-    Informacje od ministerstw i urzędów (centralnych). Podział na kategorie tematyczne.
-    
-### [Dane po warszawsku](http://www.danepowarszawsku.pl/)
-
-    Dane na temat funkcjonowania miasta od Urzędu m.st. Warszawy.
-
 ### [Interaktywna mapa Warszawy](http://www.mapa.um.warszawa.pl/mapaApp1/mapa?service=mapa)
 
     Aktualna mapa Warszawy, z możliwością nałożenia danych geograficznych i demograficznych.
@@ -90,6 +94,10 @@
 
     Raporty specjalne i okresowe na temat legalizacji pobytu, uchodźców czy ochrony międzynarodowej.
     
-### [jakdojade.pl](https://github.com/dstawinski/Maraton-Analizy-Danych/tree/master/jakdojade.pl)
 
-    Dane z 3 miesięcy na temat popularności poszczególnych przystanków jako punktów startowych i końcowych podróży użytkowników serwisu jakdojade.pl
+    
+## Podział danych na kategorie
+
+Dane/Kategorie | Transport i bezpieczeństwo | Gospodarka i finanse | Społeczeństwo i polityka | Środowisko naturalne i rolnictwo
+------------ | ------------- | ------------- | -------------
+Dane Publiczne | - [x] | - [x] | - [x] | - [x] 
