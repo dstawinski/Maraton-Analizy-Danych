@@ -24,7 +24,10 @@ Dane | Transport i bezpieczeństwo | Gospodarka i finanse | Społeczeństwo i po
 
 ### [Dane Publiczne](https://danepubliczne.gov.pl/dataset)
 
-    Informacje od polskich ministerstw i urzędów (centralnych). DanePubliczne.gov.pl to serwis, który ma za zadanie zgromadzić w jednym miejscu dane o szczególnym znaczeniu dla rozwoju innowacyjności w państwie i rozwoju społeczeństwa informacyjnego.
+    Informacje od polskich ministerstw i urzędów (centralnych).
+    DanePubliczne.gov.pl to serwis, który ma za zadanie zgromadzić
+    w jednym miejscu dane o szczególnym znaczeniu dla rozwoju innowacyjności
+    w państwie i rozwoju społeczeństwa informacyjnego.
 
 ### [jakdojade.pl](https://github.com/dstawinski/Maraton-Analizy-Danych/tree/master/jakdojade.pl)
 
