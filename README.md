@@ -90,3 +90,6 @@
 
     Raporty specjalne i okresowe na temat legalizacji pobytu, uchodźców czy ochrony międzynarodowej.
     
+### [jakdojade.pl](https://github.com/dstawinski/Maraton-Analizy-Danych/tree/master/jakdojade.pl)
+
+    Dane z 3 miesięcy na temat popularności poszczególnych przystanków jako punktów startowych i końcowych podróży użytkowników serwisu jakdojade.pl
